@@ -57,11 +57,8 @@
             </div>
          </div>
       </div>
-      <!-- header section end -->
-      <!-- layout main section start -->
       <div class="container-fluid">
          <div class="layout_main">
-            <!-- banner section start -->
             <div class="banner_section">
                <div class="container">
                   <div class="menu_main">
@@ -94,7 +91,6 @@
                                  <div class="banner_main">
                                    
                                     <div class="main">
-                                       <!-- Another variation with a button -->
                                        <div class="input-group">
                                           <input type="text" class="form-control" placeholder="Search">
                                           <div class="input-group-append">
@@ -127,7 +123,6 @@
                                        </div>
                                     </div>
                                     <div class="main">
-                                       <!-- Another variation with a button -->
                                        <div class="input-group">
                                           <input type="text" class="form-control" placeholder="Search this blog">
                                           <div class="input-group-append">
@@ -160,7 +155,6 @@
                                        </div>
                                     </div>
                                     <div class="main">
-                                       <!-- Another variation with a button -->
                                        <div class="input-group">
                                           <input type="text" class="form-control" placeholder="Search this blog">
                                           <div class="input-group-append">
@@ -185,8 +179,7 @@
                   </a>
                </div>
             </div>
-            <!-- banner section end -->
-            <!-- service section start -->
+            
             <div class="service_section layout_padding">
                <div class="container">
                   <div class="row">
@@ -197,12 +190,7 @@
                   
                </div>
             </div>
-            <!-- service section end -->
-            <!-- blog section start -->
-         
-          
-            <!-- blog section end -->
-            <!-- shop section start -->
+           
             <div class="shop_section layout_padding">
                <div class="container">
                   <div class="row">
@@ -221,11 +209,7 @@
                   </div>
                </div>
             </div>
-            <!-- shop section end -->
-            <!-- testimonial section start -->
-           
-            <!-- testimonial section end -->
-            <!-- contact section start -->
+          
             <div class="contact_section layout_padding">
                <div class="container">
                   <div class="contact_section_2">
@@ -243,14 +227,10 @@
                            </form>
                         </div>
                      </div>
-                     <!-- order section start -->
-                    
-                     <!-- order section end -->
+                     
                   </div>
                </div>
             </div>
-            <!-- contact section end -->
-            <!-- footer section start -->
             <div class="footer_section">
                <div class="container">
                   <div class="footer_sectio_2">
